@@ -8,9 +8,7 @@ import com.vivhp.qlct.HistoryFragment;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/29/2016.
- */
+
 
 public class AdapterHistory extends FragmentPagerAdapter {
 

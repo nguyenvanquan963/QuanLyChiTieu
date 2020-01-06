@@ -3,9 +3,7 @@ package com.vivhp.qlct;
 import com.vivhp.qlct.Model.Model_Phannhom;
 import com.vivhp.qlct.Model.Model_Taikhoan;
 
-/**
- * Created by vivhp on 11/10/2016.
- */
+
 
 public class Constants {
 

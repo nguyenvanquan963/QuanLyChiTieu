@@ -10,9 +10,7 @@ import com.vivhp.qlct.R;
 
 import java.util.Calendar;
 
-/**
- * Created by vivhp on 11/20/2016.
- */
+
 
 public class YearPicker {
 

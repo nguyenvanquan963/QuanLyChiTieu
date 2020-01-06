@@ -14,9 +14,7 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/24/2016.
- */
+
 
 public class Spinner_adapter extends ArrayAdapter<Model_Phannhom> {
     Activity context;

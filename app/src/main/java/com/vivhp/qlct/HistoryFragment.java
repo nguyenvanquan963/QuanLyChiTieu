@@ -18,9 +18,7 @@ import com.vivhp.qlct.adapter.AdapterHistoryItem;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/29/2016.
- */
+
 
 @SuppressLint("ValidFragment")
 public class HistoryFragment extends Fragment {

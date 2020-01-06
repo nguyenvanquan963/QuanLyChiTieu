@@ -14,9 +14,7 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/26/2016.
- */
+
 
 public class RecycleViewAdapterTaiKhoan extends RecyclerView.Adapter<RecycleViewAdapterTaiKhoan.ViewHolders> {
     ImageView img_tk;

@@ -22,9 +22,8 @@ import com.vivhp.qlct.adapter.RecycleViewAdapterTaiKhoan;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/16/2016.
- */
+
+
 
 public class Tab4 extends android.support.v4.app.Fragment {
 

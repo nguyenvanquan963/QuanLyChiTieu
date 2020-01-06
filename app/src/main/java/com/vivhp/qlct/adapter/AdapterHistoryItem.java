@@ -14,9 +14,7 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/29/2016.
- */
+
 
 public class AdapterHistoryItem extends ArrayAdapter<ModelHistory> {
 

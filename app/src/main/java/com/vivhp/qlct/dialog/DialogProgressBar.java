@@ -5,9 +5,7 @@ import android.content.Context;
 
 import com.vivhp.qlct.R;
 
-/**
- * Created by vivhp on 11/19/2016.
- */
+
 
 public class DialogProgressBar {
     private ProgressDialog progressDialog;

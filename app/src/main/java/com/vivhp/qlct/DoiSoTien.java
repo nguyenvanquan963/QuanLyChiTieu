@@ -6,9 +6,7 @@ import android.widget.EditText;
 
 import java.util.StringTokenizer;
 
-/**
- * Created by KidTjTjLuV on 22/10/2016.
- */
+
 
 public class DoiSoTien implements TextWatcher {
 

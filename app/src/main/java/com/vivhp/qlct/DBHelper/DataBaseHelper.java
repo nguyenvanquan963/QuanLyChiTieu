@@ -33,32 +33,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         super(context, Database_Name, null, Database_Version);
     }
 
-    /**     --- DỮ LIỆU CŨ ---
-     * Tạo các bảng trong cơ sở dữ liệu
-     * 1. Bảng Tài Khoản
-     * + id - int - PKey AI
-     * + tentk - text
-     * + sotien - int
-     * <p>
-     * 2. Bảng Phân Nhóm
-     * + manhom - int - PKey AI
-     * + tennhom - text
-     * + tenkhoan - text
-     * <p>
-     * 3. Bảng Thu Chi
-     * + mathuchi - int - PKey AI
-     * + id_tk - int - FKey (Bảng Tài Khoản)  on delete cascade
-     * + sotien - int
-     * + ngay - Date
-     * + manhom - int - FKey (Bảng Phân Nhóm) on delete cascade
-     * <p>
-     * 4. Bảng Giao Dịch
-     * + magiaodich - int - PKey AI
-     * + lydo - text
-     * + trang thai - text
-     * + gio - time
-     * + mathuchi - int - FKey (Bảng Thu Chi)
-     **/
+
 
     //Tên Bảng
     private static final String TABLE_TAIKHOAN = "tbltaikhoan";

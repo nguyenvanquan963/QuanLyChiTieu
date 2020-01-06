@@ -14,9 +14,7 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/26/2016.
- */
+
 
 public class Adapter_List_Type_Money extends ArrayAdapter<Model_List_Type_Money> {
 
