@@ -1,8 +1,6 @@
 package com.vivhp.qlct.Model;
 
-/**
- * Created by vivhp on 10/22/2016.
- */
+
 
 public class Model_Taikhoan {
 

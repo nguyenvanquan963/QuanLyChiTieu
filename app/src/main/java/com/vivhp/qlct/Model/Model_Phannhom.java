@@ -2,9 +2,7 @@ package com.vivhp.qlct.Model;
 
 import java.io.Serializable;
 
-/**
- * Created by vivhp on 10/22/2016.
- */
+
 
 public class Model_Phannhom implements Serializable{
 

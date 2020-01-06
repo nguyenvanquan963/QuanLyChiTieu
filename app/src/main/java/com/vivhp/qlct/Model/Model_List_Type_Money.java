@@ -1,8 +1,6 @@
 package com.vivhp.qlct.Model;
 
-/**
- * Created by vivhp on 10/26/2016.
- */
+
 
 public class Model_List_Type_Money {
     int image;

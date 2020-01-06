@@ -15,9 +15,7 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 11/18/2016.
- */
+
 
 public class AdapterListTab2 extends ArrayAdapter<Model_Thongke> {
     Activity activity;

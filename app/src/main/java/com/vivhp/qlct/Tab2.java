@@ -33,9 +33,6 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by vivhp on 10/16/2016.
- */
 
 public class Tab2 extends android.support.v4.app.Fragment implements AdapterView.OnItemSelectedListener{
 

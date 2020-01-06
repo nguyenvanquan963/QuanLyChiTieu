@@ -14,9 +14,6 @@ import com.vivhp.qlct.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by vivhp on 10/22/2016.
- */
 
 public class List_Phannhom_Adapter extends ArrayAdapter<Model_Phannhom> {
 
